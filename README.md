@@ -18,7 +18,7 @@ A Spotify downloader written in Rust using a simple Webinterface
 
 > [!NOTE]
 > Free Spotify users can not exceed 160kbit/s. Change the `quality` setting in the `settings.json` file to `Q160` or lower. If you want to download 256 or 320kbit/s, you need to use a premium account.
-
+ 
 ## 🔑 License
 
 Here is the original GPL3 license until the code is rerwritten completly.
