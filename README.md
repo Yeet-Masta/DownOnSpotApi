@@ -14,7 +14,7 @@ A Spotify downloader written in Rust using a simple Webinterface
 - ✅ Multi-threaded
 - ✅ Search for tracks
 - ✅ Download MP3 and original OGG files
-- ✅ Metadata tagging
+- ✅ Metadata tagging 
 
 > [!NOTE]
 > Free Spotify users can not exceed 160kbit/s. Change the `quality` setting in the `settings.json` file to `Q160` or lower. If you want to download 256 or 320kbit/s, you need to use a premium account.
